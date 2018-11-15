@@ -19,3 +19,6 @@ appData.expenses.a1 = a2;
 appData.expenses.a3 = a4;
 
 alert(appData.budjet / 30);
+
+let a=5;
+console.log(a);
